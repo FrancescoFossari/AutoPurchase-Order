@@ -23,6 +23,7 @@ Since this project was created quickly to explore programming and have fun, ther
 - **Dynamic Pricing:** Allow different prices per item or discounts for bulk purchases.
 - **Data Persistence:** Save orders to a database for long-term storage.
 - **Interface:** Implement a graphical or web-based interface for a better user experience.
+- **Language:** Improve more languages , at the moment the interface is in italian language.
 
 ## **Usage**
 To run this program:
